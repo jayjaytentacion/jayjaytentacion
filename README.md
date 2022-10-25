@@ -10,7 +10,7 @@ I'm Currently working on Fullstack Applications <br>I'm looking to Collaborate o
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jayjaytentacion&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jayjaytentacion&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayjaytentacion&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayjaytentacion&exclude_repo=likita-portfolio&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
   ## 💰 You can help me by Donating
