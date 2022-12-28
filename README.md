@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently working on Fullstack Applications <br>I'm looking to Collaborate on Backend Projects<br>I'm looking for help with Internship/Entry Level Roles<br>I'm currently learning Flutter,C and SolidJs<br><br>
+I'm Currently working on Fullstack Applications <br>I'm looking to Collaborate on Backend Projects<br>I'm looking for help with Internship/Entry Level Roles<br>I'm currently learning C <br><br>
 
 
 ## 🌐 Socials:
