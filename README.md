@@ -44,20 +44,11 @@ I’m a Software Developer and aspiring Technical writer, I like to bring ideas 
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 </div>  
-
 <br/>  
-
 
 ## Github Stats  
-
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jujucoder&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
-
-<br/>  
-
-  
+<br/>    
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ukemeokputu) 
-
- 
-  
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/juliusokputu) 
