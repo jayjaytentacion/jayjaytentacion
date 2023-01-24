@@ -50,5 +50,7 @@ I’m a Software Developer and aspiring Technical writer, I like to bring ideas 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jujucoder&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
 <br/>    
+
   ## 💰 You can help me by Donating
+  
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/juliusokputu) 
